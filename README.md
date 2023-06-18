@@ -1,11 +1,11 @@
-About r-phylotate
-=================
+About r-phylotate-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-phylotate-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=phylotate
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-phylotate-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions to read and write APE-compatible phylogenetic trees in NEXUS and Newick formats, while preserving annotations.
 
